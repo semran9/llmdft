@@ -1,0 +1,13 @@
+transformers>=4.43
+datasets>=2.0
+tqdm>=4.0
+torch>=2.4.0
+accelerate>=0.21.0
+liger-kernel>=0.2.0
+bitsandbytes>=0.43.3
+flash_attn>=2.6.3
+tensorboardX
+lm_eval
+wandb
+accelerate
+torchvision
